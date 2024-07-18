@@ -1,0 +1,97 @@
+body {
+    margin: 0px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #F55A5A;
+    margin-bottom: 64px;
+    margin-bottom: 0px;
+}
+
+.page-title{
+    font-family: Inter;
+    font-size: 15px;
+    color: white;
+}
+
+.app{
+    width: 550px;
+    height: 700px;
+    background-color: white;
+}
+
+.place-container{
+    width: 470px;
+    height: 170px;
+    display: flex;
+    margin-top: 36px;
+    margin-left: 40px;
+}
+
+.place-image{
+    width: 125px;
+    height: 170px;
+    border-radius: 5px;
+}
+
+.place-location-info{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+}
+
+.place-location-info *{
+    margin: 0px;
+}
+
+.place-location{
+    margin-left: 5px;
+    font-size: 10px;
+    font-family: Inter;
+    letter-spacing: 2px;
+}
+
+.google-maps{
+    margin-left: 10px;
+    color: gray;
+    font-size: 10px;
+    font-family: Inter;
+}
+
+.title{
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.date{
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.desc{
+    font-size: 10.24px;
+    font-family: Inter;
+    margin-left: 20px;
+    margin-top: 10px;
+    line-height: 150%;
+    text-align: left;
+    width: 325px;
+    height: 45px;
+}
+
