@@ -1,4 +1,6 @@
-# Buisness card with React Framework
+# Travel Journay with React Framework
+
+You can view my Travel Journay example from [here](https://hikmethankolay.github.io/travel-journay-with-react/)
 
 In the project directory, you can run:
 
