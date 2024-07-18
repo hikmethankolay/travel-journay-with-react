@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-journay-with-react/static/css/main.e998f098.css",
+    "main.js": "/travel-journay-with-react/static/js/main.c47c673c.js",
+    "static/media/world-icon.svg": "/travel-journay-with-react/static/media/world-icon.9f45656dca409cccc7ef8ea13341b52d.svg",
+    "index.html": "/travel-journay-with-react/index.html",
+    "static/media/place-icon.svg": "/travel-journay-with-react/static/media/place-icon.9dfa831aded8143f621e402a6011f37c.svg",
+    "main.e998f098.css.map": "/travel-journay-with-react/static/css/main.e998f098.css.map",
+    "main.c47c673c.js.map": "/travel-journay-with-react/static/js/main.c47c673c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e998f098.css",
+    "static/js/main.c47c673c.js"
+  ]
+}
